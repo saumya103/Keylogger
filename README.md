@@ -13,7 +13,7 @@ Python-based keylogger and system monitoring utility with Telegram Bot integrati
 
 -  Gathers OS release/version, CPU architecture, hostname, and processor info.
 
--  Network Identification: Retrieves both local IP, MAC address.
+-  Retrieves both local IP, MAC address.
 
 -  Prevents oversized log files by automatically rotating to a new .txt file when reaching the 5 MB size limit.
 
