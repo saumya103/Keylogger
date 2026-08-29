@@ -1,4 +1,4 @@
-#Working:
+# Working:
 
 1.Bot Token Setup: The script uses python-telegram-bot (telegram.ext.Application) with your configured token (BOT_TOKEN = "...").
 
