@@ -1,6 +1,12 @@
 # Keylogger 
 Python-based keylogger and system monitoring utility with Telegram Bot integration for remote management. It captures keystrokes, tracks active window titles, captures screenshots, gathers system hardware/network information, and streams logged data back to a specified Telegram bot.
 
+![keylogger](keylogger.png)
+
+![logs](logs.png)
+
+![screenshot](screenshot.png)
+
 # Features:
 ## 1.  Keystroke Monitoring
    - Real-time Key Capture: Logs both alphanumeric characters and special functional keys (e.g., [ENTER], [SPACE], [SHIFT], [CTRL], [ALT]).
