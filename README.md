@@ -25,7 +25,7 @@ Python-based keylogger and system monitoring utility with Telegram Bot integrati
 
 ![logs](logs.png)
 
-![screenshot](screenshot.png)
+![screenshot]()
 
 # Workflow:
 
