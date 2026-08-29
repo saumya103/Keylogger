@@ -1,8 +1,10 @@
 # Working:
 
-## 1.Bot Token Setup: The script uses python-telegram-bot (telegram.ext.Application) with your configured token (BOT_TOKEN = "...").
+## 1. Bot Token Setup: 
+  The script uses python-telegram-bot (telegram.ext.Application) with your configured token (BOT_TOKEN = "...").
 
-## 2.Available Telegram Commands: Once the script runs, open Telegram, message your bot, and use any of these commands:
+## 2. Available Telegram Commands: 
+  Once the script runs, open Telegram, message your bot, and use any of these commands:
 
   - /start or /help: Lists all available commands and usage.
   - /sendlogs: Sends all captured keylog .txt files from ~/.keylogger_logs/ as documents.
