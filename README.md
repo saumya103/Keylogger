@@ -5,12 +5,20 @@ Python-based keylogger and system monitoring utility with Telegram Bot integrati
 
 # Features:
 -  Real-time Key Capture: Logs both alphanumeric characters and special functional keys (e.g., [ENTER], [SPACE], [SHIFT], [CTRL], [ALT]).
+
 -  Supports Linux (xdotool), Windows (win32gui), and macOS (AppKit).
+
+  
 -  Automatically captures initial screenshots upon script launch.
+
 -  Gathers OS release/version, CPU architecture, hostname, and processor info.
+
 -  Network Identification: Retrieves both local IP, MAC address.
+
 -  Prevents oversized log files by automatically rotating to a new .txt file when reaching the 5 MB size limit.
+
 -  Stores logs cleanly inside the user's home directory (~/.keylogger_logs/).
+
 -  Keylogger runs on a background daemon thread while the Telegram bot operates on the main thread without blocking performance.
 
 # ![keylogger](keylogger.png)
